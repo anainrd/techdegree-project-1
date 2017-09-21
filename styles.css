@@ -84,6 +84,15 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+
+.header2 {text-align: center;
+  background: url('images/landscape.jpg') no-repeat top center ;
+    height: 300px;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
 .location {
   background-color: #222;
   color: aqua;
